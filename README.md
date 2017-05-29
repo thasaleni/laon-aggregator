@@ -5,8 +5,11 @@ Takes input of csv files of loans and aggregate them by month, product, network
 ## Getting Started
 
 Checkout the code and cd to root forlder, and run command "mvn package" a jar file will be generated.
+
 Execute java -jar <path-to-loan-csv>
+
 eg: $ java -jar loanaggregator.jar Loans.csv
+find file output.csv on root of project
 
 ### Prerequisites
 
